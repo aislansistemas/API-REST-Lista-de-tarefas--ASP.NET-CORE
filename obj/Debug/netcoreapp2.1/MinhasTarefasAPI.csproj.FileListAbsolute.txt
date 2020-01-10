@@ -1,0 +1,17 @@
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\MinhasTarefasAPI.deps.json
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\MinhasTarefasAPI.runtimeconfig.json
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\MinhasTarefasAPI.runtimeconfig.dev.json
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\MinhasTarefasAPI.dll
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.RazorAssemblyInfo.cache
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.RazorAssemblyInfo.cs
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.AssemblyInfoInputs.cache
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.AssemblyInfo.cs
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.RazorTargetAssemblyInfo.cache
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\MinhasTarefasAPI.pdb
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.dll
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.pdb
+D:\asp.net core\MinhasTarefasAPI\bin\Debug\netcoreapp2.1\MinhasTarefasAPI.xml
+D:\asp.net core\MinhasTarefasAPI\obj\Debug\netcoreapp2.1\MinhasTarefasAPI.csprojAssemblyReference.cache
